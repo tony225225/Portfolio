@@ -1,0 +1,7 @@
+.e{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f0f0;
+}
